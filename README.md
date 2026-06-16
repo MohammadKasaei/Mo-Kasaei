@@ -202,6 +202,17 @@ This work presents a geometry-aware visual odometry framework for navigational b
 
 
 <tr>
+    <td style = ""><img src="./imgs/problem_icra26.png"/></td>
+    <td> <b> + [ICRA2026] Learning to Throw Objects Safely in Multi-Obstacle Environments:</b> <br>
+    <p align="justify">
+This work addresses robotic throwing in cluttered environments, where objects must be placed quickly beyond the robot's immediate workspace while avoiding randomly placed obstacles. The method introduces a potential field state representation that encodes basket attraction and obstacle repulsion on a fixed-size grid, enabling reinforcement learning policies to generalize across different obstacle counts and configurations. The policy is initialized from kinesthetic demonstrations and optimized in simulation with SAC, DDPG, and TD3, with SAC achieving the most consistent performance. Compared with explicit state encodings, the potential field representation provides higher success rates and better scalability to unseen obstacle layouts. Real-robot experiments with unseen throwable objects demonstrate robust sim-to-real transfer, achieving up to 90% success in cluttered scenes.
+</p>
+ </td>
+  </tr>
+
+
+
+<tr>
     <td style = ""><img src="./imgs/shape_mppi.gif"/></td>
     <td> <b> + [Underview] Shape-Aware Whole-Body Control for Continuum Robots with Application in Endoluminal Surgical Robotics:</b> <br>
     <p align="justify">
