@@ -191,6 +191,17 @@ th, td {
 
 
 <tr>
+    <td style = ""><img src="./imgs/ICRA26_bronch.gif"/></td>
+    <td> <b> + [ICRA2026] Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion:</b> <br>
+    <p align="justify">
+This work presents a geometry-aware visual odometry framework for navigational bronchoscopy that reduces dependence on pre-operative CT and external sensors. The method explicitly uses airway-lumen vanishing-point cues by back-projecting detected lumens into 3D rays and fusing them into a stable forward-heading estimate, even when conventional parallax cues are weak or absent. This heading is combined with looming-based velocity estimates and noisy VO outputs through a bespoke high-gain observer that enforces airway-following priors and rejects drift. Evaluated on ex-vivo mechanically ventilated human lungs with electromagnetic tracking ground truth, the approach reduces absolute trajectory error by more than 50% compared with state-of-the-art pipelines such as ORB-SLAM2, LoFTR-VO, and DPVO, while also achieving the lowest relative pose error across all test sequences.
+</p>
+ </td>
+  </tr>
+
+
+
+<tr>
     <td style = ""><img src="./imgs/shape_mppi.gif"/></td>
     <td> <b> + [Underview] Shape-Aware Whole-Body Control for Continuum Robots with Application in Endoluminal Surgical Robotics:</b> <br>
     <p align="justify">
