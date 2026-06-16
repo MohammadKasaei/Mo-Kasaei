@@ -95,7 +95,7 @@ learning from demonstrating (LfD), and vision-language-action (VLA).
 
 # Latest News
 
-- **January 2026:** My paper, <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>, has been selected for the Best Paper Award in Medical Robotics at [(**ICRA 2026**)](https://2026.ieee-icra.org/).
+- **June 2026:** My paper, <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>, has been selected for the Best Paper Award in Medical Robotics at [(**ICRA 2026**)](https://2026.ieee-icra.org/).
   
 - **January 2026:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2026 International Conference on Robotics and Automation [(**ICRA 2026**)](https://2026.ieee-icra.org/): <span style="color:#006600"> <b> Learning to Throw Objects Safely in Multi-Obstacle Environments</b></span> and <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>. A big thank you to my collaborators!
 
