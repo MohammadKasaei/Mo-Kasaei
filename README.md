@@ -95,6 +95,11 @@ learning from demonstrating (LfD), and vision-language-action (VLA).
 
 # Latest News
 
+- **January 2026:** My paper, <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>, has been selected for the Best Paper Award in Medical Robotics at [(**ICRA 2026**)](https://2026.ieee-icra.org/).
+  
+- **January 2026:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2026 International Conference on Robotics and Automation [(**ICRA 2026**)](https://2026.ieee-icra.org/): <span style="color:#006600"> <b> Learning to Throw Objects Safely in Multi-Obstacle Environments</b></span> and <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>. A big thank you to my collaborators!
+
+
 - **January 2025:** My paper, <span style="color:#006600"> <b>  A Synergistic Framework for Learning Shape Estimation and Shape-Aware Whole-Body Control Policy for Continuum Robots,</b></span>  has been accepted for presentation at the 2025 International Conference on Robotics and Automation **ICRA 2025**. A big thank you to my collaborators! The paper is available online [Here](https://arxiv.org/pdf/2501.03859).
 
 - **August 2024:** My paper, <span style="color:#006600"> <b>  SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning,</b></span>  has been accepted for presentation at the 2024 Conference on Robot Learning [(**CoRL 2024**)](https://www.corl.org/). A big thank you to my collaborators! The paper is available online [Here](https://openreview.net/pdf?id=ovjxugn9Q2).
