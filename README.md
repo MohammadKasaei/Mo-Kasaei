@@ -65,7 +65,7 @@ learning from demonstrating (LfD), and vision-language-action (VLA).
     </td>
     <td width="33%">
       <a href="https://youtu.be/hifFdgeuDIs" target="_blank">
-        <img src="./imgs/G1.gif" alt="Talos Example">
+        <img src="./imgs/walking-isaac.gif" alt="Talos Example">
       </a>
     </td>
     <td width="33%">
