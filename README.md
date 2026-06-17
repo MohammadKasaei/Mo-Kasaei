@@ -95,7 +95,7 @@ learning from demonstrating (LfD), and vision-language-action (VLA).
 
 # Latest News
 
-- **June 2026:** My paper, <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>, has been selected as the <span style="color:#660000"> <b> Best Paper Award </b></span> in Medical Robotics at [**ICRA 2026**](https://2026.ieee-icra.org/).
+- **June 2026:** My paper, <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>, has been selected as the <span style="color:#880000"> <b> Best Paper Award </b></span> in Medical Robotics at [**ICRA 2026**](https://2026.ieee-icra.org/).
   
 - **January 2026:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2026 International Conference on Robotics and Automation [(**ICRA 2026**)](https://2026.ieee-icra.org/): <span style="color:#006600"> <b> Learning to Throw Objects Safely in Multi-Obstacle Environments</b></span> and <span style="color:#006600"> <b> Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion</b></span>. A big thank you to my collaborators!
 
@@ -105,7 +105,7 @@ learning from demonstrating (LfD), and vision-language-action (VLA).
 - **August 2024:** My paper, <span style="color:#006600"> <b>  SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning,</b></span>  has been accepted for presentation at the 2024 Conference on Robot Learning [(**CoRL 2024**)](https://www.corl.org/). A big thank you to my collaborators! The paper is available online [Here](https://openreview.net/pdf?id=ovjxugn9Q2).
   
 - **June 2024:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems  [(**IROS 2024**)](https://iros2024-abudhabi.org/). A big thank you to my students and collaborators!
- 
+<!--  
 - **June 2024:** Our paper titled <span style="color:#006600"> <b> Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient
 Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation</b></span> has been accepted for publication in the [**IROS2024**](https://iros2024-abudhabi.org)! 
 
@@ -120,7 +120,7 @@ Real-world Demonstrations</b></span> has been accepted for publication in the [*
 
 - **January 2024:** My research team has had <span style="color:#006600"> <b> three papers accepted </b></span> for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). A big thank you to my students and collaborators!
   
-- **October 2023:** I have successfully integrated my <span style="color:#006600"> <b> In-box Grasp Pose Prediction Pipline </b></span> on ABB Yumi Mobile manipulator for the [Harmony Project](https://harmony-eu.org/). The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git).
+- **October 2023:** I have successfully integrated my <span style="color:#006600"> <b> In-box Grasp Pose Prediction Pipline </b></span> on ABB Yumi Mobile manipulator for the [Harmony Project](https://harmony-eu.org/). The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git). -->
 
 <!-- 
 - **September 2023:** We proposed <span style="color:#006600"> <b> TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs </b></span>. The paper has been accepted for presentation in [**ICRA 2024**](https://www.icra2024.org/) and is available online [Here](https://arxiv.org/pdf/2303.05323.pdf).
@@ -192,7 +192,7 @@ th, td {
 
 <tr>
     <td style = ""><img src="./imgs/ICRA26_bronch.gif"/></td>
-    <td> <b> + [ICRA2026] Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion:</b> <span style="color:#660000"> <b> Best Paper Award in Medical Robotics ICRA 2026</b></span> <br>
+    <td> <b> + [ICRA2026] Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion:</b> <span style="color:#880000"> <b> Best Paper Award in Medical Robotics ICRA 2026</b></span> <br>
     <p align="justify">
 This work presents a geometry-aware visual odometry framework for navigational bronchoscopy that reduces dependence on pre-operative CT and external sensors. The method explicitly uses airway-lumen vanishing-point cues by back-projecting detected lumens into 3D rays and fusing them into a stable forward-heading estimate, even when conventional parallax cues are weak or absent. This heading is combined with looming-based velocity estimates and noisy VO outputs through a bespoke high-gain observer that enforces airway-following priors and rejects drift. Evaluated on ex-vivo mechanically ventilated human lungs with electromagnetic tracking ground truth, the approach reduces absolute trajectory error by more than 50% compared with state-of-the-art pipelines such as ORB-SLAM2, LoFTR-VO, and DPVO, while also achieving the lowest relative pose error across all test sequences.
 </p>
