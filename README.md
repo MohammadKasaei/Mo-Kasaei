@@ -5,7 +5,7 @@
 <!-- <p style="text-align:left;"> -->
 <!-- <p align="justify"> -->
  <!-- I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/). -->
-I am a research scientist at the [University of Edinburgh](https://www.ed.ac.uk/). My research and expertise focus on **developing efficient machine learning algorithms** including deep reinforcement learning,
+I am a research scientist at [Luma Robotics](https://www.lumarobotics.co.uk/). My research and expertise focus on **developing efficient machine learning algorithms** including deep reinforcement learning,
 learning from demonstrating (LfD), and vision-language-action (VLA). 
 
  <!-- My research focuses on **developing efficient robot learning algorithms** including deep reinforcement learning, imitation learning, LLM-based, and computer vision. I have evaluated my works on different robotic platforms, including Nextage, YuMi, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots.  -->
