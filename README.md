@@ -21,6 +21,11 @@ I am a senior research scientist at [Luma Robotics](https://www.lumarobotics.co.
 <!-- 
 <table style="border:hidden;cellspacing=0; cellpadding=0;">
   <tr>
+    <td width = "33%"><img src="./imgs/shape_mppi.gif"/></td>
+    <td width = "33%"><img src="./imgs/shape_mppi.gif"/></td>
+    <td width = "33%"><img src="./imgs/softManiSim.gif"/></td>
+  </tr>
+  <tr>
     <td width = "33%"><img src="./imgs/YuMi.gif"/></td>
     <td width = "33%"><img src="./imgs/cluttered.gif"/></td>
     <td width = "33%"><img src="./imgs/Nextage.gif"/></td>
