@@ -5,7 +5,7 @@
 <!-- <p style="text-align:left;"> -->
 <!-- <p align="justify"> -->
  <!-- I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/). -->
-I am a senior research scientist at [Luma Robotics](https://www.lumarobotics.co.uk/). My research focuses on **developing efficient machine learning algorithms for robotics**, with expertise in deep reinforcement learning, learning from demonstration (LfD), vision-language-action (VLA) models, and optimal control algorithms. 
+I am a staff robotics AI/ ML engineer at [Luma Robotics](https://www.lumarobotics.co.uk/). My research focuses on **developing efficient machine learning algorithms for robotics**, with expertise in deep reinforcement learning, learning from demonstration (LfD), vision-language-action (VLA) models, and optimal control algorithms. 
 
  <!-- My research focuses on **developing efficient robot learning algorithms** including deep reinforcement learning, imitation learning, LLM-based, and computer vision. I have evaluated my works on different robotic platforms, including Nextage, YuMi, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots.  -->
   <!-- These days, I am particularly interested in neural ODE and its applications in developing scalable imitation learning algorithms, physics-informed neural networks (PINN) to learn residual dynamics and residual actions, also deep learning approaches for visual object perception, segmentation and grasp pose prediction in highly cluttered environments.  -->
@@ -42,71 +42,93 @@ I am a senior research scientist at [Luma Robotics](https://www.lumarobotics.co.
  <tr>
     <td width="33%">
       <a href="https://youtu.be/JD7b1nMzVdY" target="_blank">
-        <img src="./imgs/ICRA26_bronch.gif" alt="YuMi Example">
+        <img src="./imgs/ICRA26_bronch.gif" alt="YuMi Example" width="100%" height="180">
       </a>
     </td>
-    <td width="33%">
-      <a href="https://youtu.be/riBXMgrupUw?t=140" target="_blank">
-        <img src="./imgs/shape_mppi.gif" alt="Cluttered Example">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://www.youtube.com/watch?v=NextageExample" target="_blank">
-        <img src="./imgs/softManiSim.gif" alt="Nextage Example">
-      </a>
-    </td>
-  </tr> 
- <tr>
-    <td width="33%">
-      <a href="https://youtu.be/JD7b1nMzVdY" target="_blank">
-        <img src="./imgs/YuMi.gif" alt="YuMi Example">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://youtu.be/riBXMgrupUw?t=140" target="_blank">
-        <img src="./imgs/cluttered.gif" alt="Cluttered Example">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://www.youtube.com/watch?v=NextageExample" target="_blank">
-        <img src="./imgs/Nextage.gif" alt="Nextage Example">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://youtu.be/t7GORTRGWHI" target="_blank">
-        <img src="./imgs/humanoid.gif" alt="Humanoid Example">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://youtu.be/hifFdgeuDIs" target="_blank">
-        <img src="./imgs/walking-isaac.gif" alt="Talos Example">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://youtu.be/bUZJadWCRXU?t=123" target="_blank">
-        <img src="./imgs/A1.gif" alt="A1 Example">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://youtu.be/4Pg29bUBKqs?t=90" target="_blank">
-        <img src="./imgs/tactip_grasp.gif" alt="Tactip Grasp Example">
+      <td width="33%">
+      <a href="https://github.com/MohammadKasaei/MPPI_Wholebody" target="_blank">
+        <img src="./imgs/ctr.gif" alt="Cluttered Example" width="100%" height="180">
       </a>
     </td>
     <td width="33%">
       <a href="https://youtu.be/_y7LvG-JS4M?t=146" target="_blank">
-        <img src="./imgs/softRobot22.gif" alt="Soft Robot 22 Example">
+        <img src="./imgs/softRobot22.gif" alt="Soft Robot 22 Example" width="100%" height="180">
+      </a>
+    </td> 
+  </tr>
+   
+ <tr>
+    <td width="33%">
+      <a href="https://youtu.be/riBXMgrupUw?t=140" target="_blank">
+        <img src="./imgs/cluttered.gif" alt="Cluttered Example" width="100%" height="180">
       </a>
     </td>
     <td width="33%">
       <a href="https://youtu.be/q1l4BJVDbRw?t=93" target="_blank">
-        <img src="./imgs/throwing.gif" alt="Throwing Example">
+        <img src="./imgs/throwing.gif" alt="Throwing Example" width="100%" height="180">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://www.youtube.com/watch?v=NextageExample" target="_blank">
+        <img src="./imgs/Nextage.gif" alt="Nextage Example" width="100%" height="180">
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="33%">
+          <a href="https://youtu.be/JD7b1nMzVdY" target="_blank">
+            <img src="./imgs/YuMi.gif" alt="YuMi Example" width="100%" height="180">
+          </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/4Pg29bUBKqs?t=90" target="_blank">
+        <img src="./imgs/tactip_grasp.gif" alt="Tactip Grasp Example" width="100%" height="180">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://arxiv.org/pdf/2108.04567" target="_blank">
+        <img src="./imgs/franka_dual.gif" alt="Soft Robot 22 Example" width="100%" height="180">
+      </a>
+    </td>
+
+        
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://youtu.be/t7GORTRGWHI" target="_blank">
+        <img src="./imgs/humanoid.gif" alt="Humanoid Example" width="100%" height="180">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/bUZJadWCRXU?t=80" target="_blank">
+        <img src="./imgs/A1.gif" alt="Talos Example" width="100%" height="180">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/bUZJadWCRXU?t=123" target="_blank">
+        <img src="./imgs/A1_real.gif" alt="A1 Example" width="100%" height="180">
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td width="33%">
+      <a href="https://www.youtube.com/watch?v=NextageExample" target="_blank">
+        <img src="./imgs/softManiSim.gif" alt="Nextage Example" width="100%" height="180">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/hifFdgeuDIs" target="_blank">
+        <img src="./imgs/walking-isaac.gif" alt="Talos Example" width="100%" height="180">
+      </a>
+    </td>
+    <td width="33%">
+          <a href="https://youtu.be/JD7b1nMzVdY" target="_blank">
+            <img src="./imgs/handover.gif" alt="YuMi Example" width="100%" height="180">
+          </a>
+        </td>
+        
+  </tr>
+  
 </table>
 
 # Latest News
@@ -141,14 +163,13 @@ th, td {
     <th></th>
   </tr>
 
-
-
 <tr>
     <td style = ""><img src="./imgs/ICRA26_bronch.gif"/></td>
     <td> <b> + [ICRA2026] Geometry-Aware Visual Odometry for Bronchoscopic Navigation Via High-Gain Observer Fusion:</b> <span style="color:#880000"> <b> Best Paper Award in Medical Robotics ICRA 2026</b></span> <br>
     <p align="justify">
 This work presents a geometry-aware visual odometry framework for navigational bronchoscopy that reduces dependence on pre-operative CT and external sensors. The method explicitly uses airway-lumen vanishing-point cues by back-projecting detected lumens into 3D rays and fusing them into a stable forward-heading estimate, even when conventional parallax cues are weak or absent. This heading is combined with looming-based velocity estimates and noisy VO outputs through a bespoke high-gain observer that enforces airway-following priors and rejects drift. Evaluated on ex-vivo mechanically ventilated human lungs with electromagnetic tracking ground truth, the approach reduces absolute trajectory error by more than 50% compared with state-of-the-art pipelines such as ORB-SLAM2, LoFTR-VO, and DPVO, while also achieving the lowest relative pose error across all test sequences.
 </p>
+<a href="https://arxiv.org/pdf/2607.05162"> <b>Paper (ICRA)</b></a>
  </td>
   </tr>
 
@@ -160,6 +181,7 @@ This work presents a geometry-aware visual odometry framework for navigational b
     <p align="justify">
 This work addresses robotic throwing in cluttered environments, where objects must be placed quickly beyond the robot's immediate workspace while avoiding randomly placed obstacles. The method introduces a potential field state representation that encodes basket attraction and obstacle repulsion on a fixed-size grid, enabling reinforcement learning policies to generalize across different obstacle counts and configurations. The policy is initialized from kinesthetic demonstrations and optimized in simulation with SAC, DDPG, and TD3, with SAC achieving the most consistent performance. Compared with explicit state encodings, the potential field representation provides higher success rates and better scalability to unseen obstacle layouts. Real-robot experiments with unseen throwable objects demonstrate robust sim-to-real transfer, achieving up to 90% success in cluttered scenes.
 </p>
+<a href="https://arxiv.org/pdf/2607.06388"> <b>Paper (ICRA)</b></a>
  </td>
   </tr>
 
@@ -228,7 +250,7 @@ This work develops a data-efficient learning from demonstration framework which 
 In robotics, acquiring new skills through Imitation Learning (IL) is crucial for handling diverse complex tasks. However, model-free IL faces data inefficiency and prolonged training time, whereas model-based methods struggle to obtain accurate models. To address these challenges, we developed Neural ODE-based Imitation Learning (NODE-IL), a novel model-based imitation learning framework that employs Neural Ordinary Differential Equations (Neural ODEs) for learning task dynamics and control policies. NODE-IL comprises (1) Dynamic-NODE for learning the continuous differentiable task's transition dynamics model, and (2) Control-NODE for learning a long-horizon control policy in an MPC fashion, which are trained holistically. Extensively evaluated on challenging manipulation tasks, NODE-IL demonstrates significant advantages in data efficiency, requiring less than 70 samples to achieve robust performance. It outperforms Behavioral Cloning from Observation (BCO) and Gaussian Process Imitation Learning (GP-IL) methods, achieving 70\% higher average success rate, and reducing translation errors for high-precision tasks, which demonstrates its robustness and accuracy, as an effective and efficient imitation learning approach for learning complex manipulation tasks.
 </p>
 <br> <a href=""> <b>Video</b></a> &emsp; &emsp;
- <a href=""> <b>Paper (IROS)</b></a> 
+ <a href="https://www.research.ed.ac.uk/files/483573240/ZhaoEtalIROS2024NeuralODE-basedImitationLearning.pdf"> <b>Paper (IROS)</b></a> 
  </td>
   </tr>
 
