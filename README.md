@@ -436,7 +436,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 </table>
 
 # Contact
-Dr.Mohammadreza Kasaei\
+Dr. M. Kasaei\
 Bayes Centre - G1.10\
 47 Potterrow\
 Edinburgh\
