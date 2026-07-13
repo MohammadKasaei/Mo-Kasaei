@@ -4,12 +4,9 @@
 
 <!-- <p style="text-align:left;"> -->
 <!-- <p align="justify"> -->
- <!-- I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/). -->
-I am a staff robotics AI/ ML engineer at [Luma Robotics](https://www.lumarobotics.co.uk/). My research focuses on **developing efficient machine learning algorithms for robotics**, with expertise in deep reinforcement learning, learning from demonstration (LfD), vision-language-action (VLA) models, and optimal control algorithms. 
 
- <!-- My research focuses on **developing efficient robot learning algorithms** including deep reinforcement learning, imitation learning, LLM-based, and computer vision. I have evaluated my works on different robotic platforms, including Nextage, YuMi, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots.  -->
-  <!-- These days, I am particularly interested in neural ODE and its applications in developing scalable imitation learning algorithms, physics-informed neural networks (PINN) to learn residual dynamics and residual actions, also deep learning approaches for visual object perception, segmentation and grasp pose prediction in highly cluttered environments.  -->
- <!-- </p> -->
+I am a Staff Robotics AI/ML Engineer at [Luma Robotics](https://www.lumarobotics.co.uk/), where I develop efficient learning and control algorithms for intelligent robotic systems. My work spans deep reinforcement learning, learning from demonstration, vision-language-action models, and optimal control, with a focus on building methods that are both data-efficient and practical for real-world deployment.
+
 <br />
 <br />
 
