@@ -109,12 +109,12 @@ I am a Staff Robotics AI/ML Engineer at [Luma Robotics](https://www.lumarobotics
   </tr>
    <tr>
     <td width="33%">
-      <a href="https://www.youtube.com/watch?v=NextageExample" target="_blank">
+      <a href="https://github.com/SIRGLab/SoftManiSim" target="_blank">
         <img src="./imgs/softManiSim.gif" alt="Nextage Example" width="100%" height="180">
       </a>
     </td>
     <td width="33%">
-      <a href="https://youtu.be/hifFdgeuDIs" target="_blank">
+      <a href="https://github.com/MohammadKasaei/g1locomotion" target="_blank">
         <img src="./imgs/walking-isaac.gif" alt="Talos Example" width="100%" height="180">
       </a>
     </td>
