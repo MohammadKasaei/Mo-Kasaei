@@ -148,9 +148,9 @@ table, tr {border:hidden;}
 td, th {border:hidden;}
 .research-images img {
   width: 100%;
-  max-width: 320px;
-  height: 180px;
-  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
   display: block;
 }
 </style>
