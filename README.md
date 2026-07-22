@@ -146,9 +146,16 @@ I am a Staff Robotics AI/ML Engineer at [Luma Robotics](https://www.lumarobotics
 <style>
 table, tr {border:hidden;}
 td, th {border:hidden;}
+.research-images img {
+  width: 100%;
+  max-width: 320px;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
 </style>
 
-<table style="border:hidden;cellspacing=0; cellpadding=0;">
+<table class="research-images" style="border:hidden;cellspacing=0; cellpadding=0;">
 
 <!-- <style>
 th, td {
