@@ -420,6 +420,19 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
   </tr>
 
 
+
+  <tr>
+    <td style = ""><img src="./imgs/G1.gif"/></td>
+    <td> <b> + [RAS] Robust Biped Locomotion Using Deep Reinforcement Learning on Top of an Analytical Control Approach:</b> <br>
+    <p align="justify">
+   This work introduces a modular framework that combines analytical control with deep reinforcement learning to create robust biped locomotion. It uses a simplified two-mass humanoid dynamics model for adaptive trajectory planning and optimal control, while Genetic Algorithms and PPO optimize gait parameters, arm movements, and center-of-mass height. RoboCup 3D simulations demonstrate fast, stable walking and improved upper-body efficiency. </p>
+<br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper (Robotics and Autonomous Systems
+)</b></a> 
+ </td>
+
+
+
   <tr>
     <td style = ""><img src="./imgs/humanoidWalking.gif"/></td>
     <td> <b> + [Frontiers] Learning Hybrid Locomotion Skills – Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control:</b> <br>
